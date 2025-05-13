@@ -1,12 +1,59 @@
-# React + Vite
+# 💼 Portfólio Pessoal Interativo - Patrick Anderson
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de ecrã 2025-05-13 134621](https://github.com/user-attachments/assets/118d81dc-40b2-4625-9304-ff8ff2863e50)
 
-Currently, two official plugins are available:
+Um portfólio digital elegante, artístico e acessível, criado com foco em identidade visual, animações suaves e boas práticas de front-end. O projeto foi desenvolvido com React e Vite, usando TailwindCSS e Framer Motion para estilização e transições modernas. A proposta é transmitir personalidade, criatividade e atenção aos detalhes em uma navegação fluida e responsiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Acesse o projeto online](https://patrickdsants.github.io/meu-portifolio/)  
+📂 [Repositório no GitHub](https://github.com/PatrickDSants/meu-portifolio)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Funcionalidades e Seções
+
+- **Hero Section** com fundo artístico, texto em destaque e animação por scroll
+- **Sobre Mim** com layout dividido entre imagem e descrição animada
+- **Projetos** em grid animado com visual destacado, botões para GitHub e live demo
+- **Skills & Ferramentas** com ícones estilizados e entrada animada
+- **Contato** com footer personalizado e imagem de fundo clássica
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **React.js** – Componentização e estrutura da aplicação
+- **Vite** – Build e performance otimizada em dev
+- **TailwindCSS** – Estilização utilitária e responsiva
+- **Framer Motion** – Animações baseadas em viewport e scroll
+- **PostCSS & Autoprefixer** – Processamento e compatibilidade dos estilos
+- **GitHub Pages** – Deploy com script via `gh-pages`
+- **Google Fonts (Playfair Display)** – Tipografia refinada
+- **Imagens Clássicas** – Pinturas históricas aplicadas com CSS para compor a identidade visual
+
+---
+
+## 🧠 Aprendizados
+
+Esse projeto foi essencial para consolidar conhecimentos em:
+
+- Integração de animações com React usando Framer Motion
+- Organização de componentes reutilizáveis
+- Boas práticas de responsividade e contraste visual
+- Deploy eficiente via GitHub Pages com `vite.config.js` ajustado
+
+---
+
+## 📦 Como rodar o projeto localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/PatrickDSants/meu-portifolio.git
+
+# Acesse a pasta
+cd meu-portifolio
+
+# Instale as dependências
+npm install
+
+# Rode o projeto em ambiente de desenvolvimento
+npm run dev
