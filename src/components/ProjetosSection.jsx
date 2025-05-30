@@ -14,23 +14,22 @@ import devnestImg from "../assets/devnestImg.png";
 import mentorChallengeImg from "../assets/mentorChallengeImg.png";
 
 const projects = [
-    {
+     {
     title: "DevNest",
     description: "Plataforma para devs encontrarem projetos open source para contribuir.",
-    link: "https://devnest-zeta.vercel.app",
-    github: "https://github.com/PatrickDSants/devnest",
+    liveLink: "https://devnest-zeta.vercel.app", // <- CORRIGIDO
+    githubLink: "https://github.com/PatrickDSants/devnest", // <- CORRIGIDO
     image: devnestImg,
-    techs: ["React", "Tailwind", "Firebase", "Node"]
+    tech: ["React", "Tailwind", "Firebase", "Node"]
   },
-    {
+  {
     title: "Frontend Mentor Challenge",
     description: "Desafio prático para recriar uma página com foco em layout e responsividade.",
-    link: "https://patrickdsants.github.io/front-endMentorChallenge/",
-    github: "https://github.com/PatrickDSants/front-endMentorChallenge",
+    liveLink: "https://patrickdsants.github.io/front-endMentorChallenge/", // <- CORRIGIDO
+    githubLink: "https://github.com/PatrickDSants/front-endMentorChallenge", // <- CORRIGIDO
     image: mentorChallengeImg,
-    techs: ["HTML", "CSS", "JavaScript"]
+    tech: ["HTML", "CSS", "JavaScript"]
   },
-
   {
     title: "Calculator",
     description: "Uma calculadora funcional para operações básicas.",
