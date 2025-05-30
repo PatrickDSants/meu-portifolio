@@ -10,8 +10,27 @@ import jogodavelha from "../assets/jogodavelha.png";
 import stray from "../assets/stray.png";
 import countdown from "../assets/Newyearcountdown.png";
 import passwordgen from "../assets/passwordgenerator.png";
+import devnestImg from "../assets/devnestImg.png";
+import mentorChallengeImg from "../assets/mentorChallengeImg.png";
 
 const projects = [
+    {
+    title: "DevNest",
+    description: "Plataforma para devs encontrarem projetos open source para contribuir.",
+    link: "https://devnest-zeta.vercel.app",
+    github: "https://github.com/PatrickDSants/devnest",
+    image: devnestImg,
+    techs: ["React", "Tailwind", "Firebase", "Node"]
+  },
+    {
+    title: "Frontend Mentor Challenge",
+    description: "Desafio prático para recriar uma página com foco em layout e responsividade.",
+    link: "https://patrickdsants.github.io/front-endMentorChallenge/",
+    github: "https://github.com/PatrickDSants/front-endMentorChallenge",
+    image: mentorChallengeImg,
+    techs: ["HTML", "CSS", "JavaScript"]
+  },
+
   {
     title: "Calculator",
     description: "Uma calculadora funcional para operações básicas.",
