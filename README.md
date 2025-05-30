@@ -4,7 +4,7 @@
 
 Um portfólio digital elegante, artístico e acessível, criado com foco em identidade visual, animações suaves e boas práticas de front-end. O projeto foi desenvolvido com React e Vite, usando TailwindCSS e Framer Motion para estilização e transições modernas. A proposta é transmitir personalidade, criatividade e atenção aos detalhes em uma navegação fluida e responsiva.
 
-🔗 [Acesse o projeto online](https://patrickdsants.github.io/meu-portifolio/)  
+🔗 [Acesse o projeto online](https://meu-portifolio-seven-xi.vercel.app/)  
 📂 [Repositório no GitHub](https://github.com/PatrickDSants/meu-portifolio)
 
 ---
